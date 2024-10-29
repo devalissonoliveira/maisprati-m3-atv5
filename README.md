@@ -15,6 +15,9 @@
     </a>
 </p>
 
+## Deploy do projeto 
+[Clique aqui](https://devalissonoliveira.github.io/maisprati-m3-atv5/)
+
 ## Observações
 - Para persistência de dados utilizei o localStorage para salvar as tarefas.
 - Criado um CRUD para manipulação das tarefas.
