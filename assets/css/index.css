@@ -1,0 +1,21 @@
+input::placeholder{
+   color: #6c757d !important;
+}
+
+.task-container{
+    background-color: rgba(68, 67, 67, 0.178);
+}
+
+.opacity-done-task{
+    opacity: 0.4;
+}
+
+.line-done-task{
+    text-decoration: line-through;
+}
+
+@media (max-width: 768px) {
+    form, hr, #toDoList{
+        width: 75% !important;
+    }
+}
